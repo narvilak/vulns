@@ -1,4 +1,4 @@
----
+
 #### File Upload Injection
 | Goal      | Result |
 | ----------- | ----------- |
@@ -12,4 +12,3 @@ The applications upload fucntionality was tested to check if a user can upload m
 |Severity  | Likelihood  |  Effort to Fix |
 |----------|-------------|------|
 | Low |  Medium | High |
----
