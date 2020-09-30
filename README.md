@@ -18,7 +18,7 @@ The applications upload fucntionality was tested to check if a user can upload m
 
 <br/>
 
-#### File Upload Injection
+## Privilege Escalation
 | Goal      | Result |
 | ----------- | ----------- |
 | HTTP Header Options assessment      | The Click application is subject to UI redress attacks, as it can be rendered within an i-frame       |
