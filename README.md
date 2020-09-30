@@ -1,5 +1,5 @@
 
-#### File Upload Injection
+### File Upload Injection
 
 | Goal      | Result |
 | ----------- | ----------- |
