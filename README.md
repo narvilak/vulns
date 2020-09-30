@@ -13,6 +13,9 @@ The applications upload fucntionality was tested to check if a user can upload m
 |----------|-------------|------|
 | Low |  Medium | High |
 
+
+<br/>
+
 #### File Upload Injection
 | Goal      | Result |
 | ----------- | ----------- |
